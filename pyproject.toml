@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "likvid-blocklist-builder"
+version = "0.1.0"
+description = "Build a normalized hybrid IP/CIDR blocklist from configured public sources"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["blocklist_builder*"]
