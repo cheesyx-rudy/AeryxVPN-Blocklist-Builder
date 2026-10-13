@@ -33,12 +33,12 @@ jobs:
 
       - name: Commit updated data
         run: |
-          if git diff --quiet -- data/cache dist; then
+          git add -f data/cache dist
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/cache dist
           git commit -m "chore: update hybrid blocklist"
           git push
