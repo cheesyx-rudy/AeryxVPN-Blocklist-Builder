@@ -146692,8 +146692,7 @@
 {"network":"139.28.242.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"139.45.205.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"139.45.205.66/32","sources":["blockedin"],"source_count":1}
-{"network":"139.45.206.0/23","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"139.45.207.0/24","sources":["antifilter"],"source_count":1}
+{"network":"139.45.207.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"139.56.16.0/20","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"139.56.32.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"139.56.34.0/24","sources":["russia_blocked_ips"],"source_count":1}

@@ -1,10 +1,10 @@
 {
   "name": "LIKVID Hybrid Blocklist",
   "schema_version": 1,
-  "generated_at": "2026-10-13T22:49:54Z",
+  "generated_at": "2026-10-14T04:59:23Z",
   "description": "Normalized union of configured public IP/CIDR sources",
   "combined_file": "blocked_cidrs.txt",
-  "combined_sha256": "9cb802d590bd056e5e3a1ac58e5c5d98f43ec6b23cc5b8cef7358ce95d96c11e",
+  "combined_sha256": "0e2a88d97cb0bf4e8962db7943f195a10dfa3b03b427dcf52f5e0c0c2f65ceef",
   "combined_cidr_count": 57202,
   "source_count": 3,
   "sources": [
