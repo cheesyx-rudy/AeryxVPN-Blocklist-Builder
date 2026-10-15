@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:45:43Z",
+  "generated_at": "2026-10-15T04:46:15Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -22,13 +22,13 @@
       "name": "Russia Blocked IPs",
       "url": "https://raw.githubusercontent.com/eduard256/russia-blocked-ips/main/ip.txt",
       "status": "downloaded",
-      "entries": 50139,
+      "entries": 50138,
       "stats": {
-        "tokens_seen": 50148,
+        "tokens_seen": 50147,
         "invalid": 0,
         "non_global": 9,
         "too_broad": 0,
-        "accepted": 50139
+        "accepted": 50138
       },
       "error": null
     },
@@ -37,21 +37,21 @@
       "name": "BlockedIn API v3 IPs",
       "url": "https://blockedin.org/api/v3/ips/",
       "status": "downloaded",
-      "entries": 394482,
+      "entries": 394971,
       "stats": {
-        "tokens_seen": 394482,
+        "tokens_seen": 394971,
         "invalid": 0,
         "non_global": 0,
         "too_broad": 0,
-        "accepted": 394482
+        "accepted": 394971
       },
       "error": null
     }
   },
-  "unique_source_records": 453006,
-  "combined_cidr_count": 57247,
-  "record_count_before_collapse": 453006,
-  "combined_sha256": "50a16946eaa897920f50a895bb6d8989841445f2361ce76efb1c267b6d62c162",
+  "unique_source_records": 453495,
+  "combined_cidr_count": 57259,
+  "record_count_before_collapse": 453495,
+  "combined_sha256": "24313ee35cdfabfac2a6f74ca09e9308a70918bb8c3615dc88aa386064517e49",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
