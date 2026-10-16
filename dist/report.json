@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:37:58Z",
+  "generated_at": "2026-10-16T11:30:45Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -7,13 +7,13 @@
       "name": "antifilter.download allyouneed",
       "url": "https://antifilter.download/list/allyouneed.lst",
       "status": "downloaded",
-      "entries": 18344,
+      "entries": 18354,
       "stats": {
-        "tokens_seen": 18344,
+        "tokens_seen": 18354,
         "invalid": 0,
         "non_global": 0,
         "too_broad": 0,
-        "accepted": 18344
+        "accepted": 18354
       },
       "error": null
     },
@@ -22,13 +22,13 @@
       "name": "Russia Blocked IPs",
       "url": "https://raw.githubusercontent.com/eduard256/russia-blocked-ips/main/ip.txt",
       "status": "downloaded",
-      "entries": 50272,
+      "entries": 50288,
       "stats": {
-        "tokens_seen": 50281,
+        "tokens_seen": 50297,
         "invalid": 0,
         "non_global": 9,
         "too_broad": 0,
-        "accepted": 50272
+        "accepted": 50288
       },
       "error": null
     },
@@ -48,10 +48,10 @@
       "error": null
     }
   },
-  "unique_source_records": 454119,
-  "combined_cidr_count": 57413,
-  "record_count_before_collapse": 454119,
-  "combined_sha256": "9cf3a5fb755028ac7610ebc3141fc848e943f156681623ba210418ae0ef29931",
+  "unique_source_records": 454143,
+  "combined_cidr_count": 57432,
+  "record_count_before_collapse": 454143,
+  "combined_sha256": "ce28bf1d90491f37a4e2e44898499083dac0de0d191fa49e8dff869c40521aba",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
