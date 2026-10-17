@@ -684,6 +684,7 @@
 {"network":"3.65.214.0/24","sources":["antifilter"],"source_count":1}
 {"network":"3.65.214.39/32","sources":["blockedin"],"source_count":1}
 {"network":"3.65.214.199/32","sources":["blockedin"],"source_count":1}
+{"network":"3.65.240.0/24","sources":["antifilter"],"source_count":1}
 {"network":"3.65.245.0/24","sources":["antifilter"],"source_count":1}
 {"network":"3.65.250.78/32","sources":["blockedin"],"source_count":1}
 {"network":"3.66.28.69/32","sources":["blockedin"],"source_count":1}
@@ -6804,6 +6805,7 @@
 {"network":"5.188.211.156/32","sources":["blockedin"],"source_count":1}
 {"network":"5.188.213.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"5.188.214.0/23","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"5.188.224.0/24","sources":["antifilter"],"source_count":1}
 {"network":"5.188.225.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"5.188.226.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"5.188.228.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -23916,6 +23918,7 @@
 {"network":"45.8.249.211/32","sources":["blockedin"],"source_count":1}
 {"network":"45.8.251.0/24","sources":["antifilter"],"source_count":1}
 {"network":"45.8.251.32/32","sources":["blockedin"],"source_count":1}
+{"network":"45.9.2.77/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.9.3.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.9.6.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.9.13.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -25034,6 +25037,7 @@
 {"network":"45.14.88.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.14.135.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.14.135.243/32","sources":["blockedin"],"source_count":1}
+{"network":"45.14.165.0/24","sources":["antifilter"],"source_count":1}
 {"network":"45.14.172.0/22","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"45.14.172.0/23","sources":["antifilter"],"source_count":1}
 {"network":"45.14.173.1/32","sources":["blockedin"],"source_count":1}
@@ -34865,6 +34869,7 @@
 {"network":"47.246.2.141/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"47.251.8.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"47.251.8.248/32","sources":["blockedin"],"source_count":1}
+{"network":"47.251.19.0/24","sources":["antifilter"],"source_count":1}
 {"network":"47.251.161.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"47.252.10.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"47.253.104.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -35290,6 +35295,7 @@
 {"network":"50.28.59.161/32","sources":["blockedin"],"source_count":1}
 {"network":"50.28.72.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"50.28.72.70/32","sources":["blockedin"],"source_count":1}
+{"network":"50.28.84.0/24","sources":["antifilter"],"source_count":1}
 {"network":"50.28.84.63/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
 {"network":"50.28.85.67/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"50.28.110.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -45236,10 +45242,12 @@
 {"network":"63.185.191.0/24","sources":["antifilter"],"source_count":1}
 {"network":"63.185.191.81/32","sources":["blockedin"],"source_count":1}
 {"network":"63.185.241.0/24","sources":["antifilter"],"source_count":1}
+{"network":"63.186.23.0/24","sources":["antifilter"],"source_count":1}
 {"network":"63.186.35.0/24","sources":["antifilter"],"source_count":1}
 {"network":"63.186.45.162/32","sources":["blockedin"],"source_count":1}
 {"network":"63.186.59.25/32","sources":["blockedin"],"source_count":1}
 {"network":"63.186.75.0/24","sources":["antifilter"],"source_count":1}
+{"network":"63.186.82.0/24","sources":["antifilter"],"source_count":1}
 {"network":"63.186.101.0/24","sources":["antifilter"],"source_count":1}
 {"network":"63.186.101.110/32","sources":["blockedin"],"source_count":1}
 {"network":"63.186.128.0/24","sources":["antifilter"],"source_count":1}
@@ -46050,7 +46058,7 @@
 {"network":"64.140.56.0/21","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"64.140.118.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"64.140.118.1/32","sources":["blockedin"],"source_count":1}
-{"network":"64.140.161.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"64.140.161.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"64.140.161.130/32","sources":["blockedin"],"source_count":1}
 {"network":"64.140.161.140/32","sources":["blockedin"],"source_count":1}
 {"network":"64.140.168.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -48759,7 +48767,7 @@
 {"network":"66.45.227.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"66.45.227.43/32","sources":["blockedin"],"source_count":1}
 {"network":"66.45.227.62/32","sources":["blockedin"],"source_count":1}
-{"network":"66.45.230.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"66.45.230.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"66.45.230.3/32","sources":["blockedin"],"source_count":1}
 {"network":"66.45.230.82/32","sources":["blockedin"],"source_count":1}
 {"network":"66.45.232.0/23","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -50475,7 +50483,7 @@
 {"network":"68.168.211.135/32","sources":["blockedin"],"source_count":1}
 {"network":"68.168.213.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"68.168.213.74/32","sources":["blockedin"],"source_count":1}
-{"network":"68.168.218.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"68.168.218.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"68.168.218.156/32","sources":["blockedin"],"source_count":1}
 {"network":"68.168.220.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"68.168.220.124/32","sources":["blockedin"],"source_count":1}
@@ -51983,9 +51991,10 @@
 {"network":"72.56.8.0/23","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"72.56.15.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"72.56.32.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
-{"network":"72.56.36.0/23","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"72.56.36.0/22","sources":["antifilter"],"source_count":1}
+{"network":"72.56.36.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"72.56.37.229/32","sources":["blockedin"],"source_count":1}
-{"network":"72.56.39.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"72.56.39.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"72.56.39.203/32","sources":["blockedin"],"source_count":1}
 {"network":"72.56.65.155/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"72.56.79.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -59284,6 +59293,7 @@
 {"network":"82.146.100.100/32","sources":["blockedin"],"source_count":1}
 {"network":"82.147.38.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"82.147.71.206/32","sources":["blockedin"],"source_count":1}
+{"network":"82.148.17.0/24","sources":["antifilter"],"source_count":1}
 {"network":"82.148.19.0/24","sources":["antifilter"],"source_count":1}
 {"network":"82.148.19.69/32","sources":["blockedin"],"source_count":1}
 {"network":"82.148.21.0/24","sources":["antifilter"],"source_count":1}
@@ -59791,6 +59801,7 @@
 {"network":"82.202.131.232/32","sources":["blockedin"],"source_count":1}
 {"network":"82.202.138.0/24","sources":["antifilter"],"source_count":1}
 {"network":"82.202.140.123/32","sources":["blockedin"],"source_count":1}
+{"network":"82.202.141.0/24","sources":["antifilter"],"source_count":1}
 {"network":"82.202.157.27/32","sources":["blockedin"],"source_count":1}
 {"network":"82.202.160.0/24","sources":["antifilter"],"source_count":1}
 {"network":"82.202.162.0/24","sources":["antifilter"],"source_count":1}
@@ -60651,7 +60662,8 @@
 {"network":"83.149.100.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"83.149.100.33/32","sources":["blockedin"],"source_count":1}
 {"network":"83.149.100.103/32","sources":["blockedin"],"source_count":1}
-{"network":"83.149.104.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"83.149.104.0/23","sources":["antifilter"],"source_count":1}
+{"network":"83.149.104.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"83.149.104.11/32","sources":["blockedin"],"source_count":1}
 {"network":"83.149.110.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"83.149.110.155/32","sources":["blockedin"],"source_count":1}
@@ -61482,6 +61494,7 @@
 {"network":"84.247.181.108/32","sources":["blockedin"],"source_count":1}
 {"network":"84.247.184.65/32","sources":["blockedin"],"source_count":1}
 {"network":"84.252.64.0/23","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"84.252.66.0/24","sources":["antifilter"],"source_count":1}
 {"network":"84.252.69.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"84.252.72.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"84.252.73.119/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
@@ -66050,6 +66063,7 @@
 {"network":"89.107.63.215/32","sources":["blockedin"],"source_count":1}
 {"network":"89.108.70.0/24","sources":["antifilter"],"source_count":1}
 {"network":"89.108.73.0/24","sources":["antifilter"],"source_count":1}
+{"network":"89.108.77.0/24","sources":["antifilter"],"source_count":1}
 {"network":"89.108.78.0/24","sources":["antifilter"],"source_count":1}
 {"network":"89.108.82.0/24","sources":["antifilter"],"source_count":1}
 {"network":"89.108.84.0/24","sources":["antifilter"],"source_count":1}
@@ -66713,7 +66727,8 @@
 {"network":"89.127.195.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"89.127.196.0/22","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"89.127.200.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
-{"network":"89.127.205.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"89.127.204.0/23","sources":["antifilter"],"source_count":1}
+{"network":"89.127.205.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"89.127.206.217/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
 {"network":"89.127.208.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"89.127.208.84/32","sources":["blockedin"],"source_count":1}
@@ -75254,6 +75269,7 @@
 {"network":"94.158.50.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"94.158.50.191/32","sources":["blockedin"],"source_count":1}
 {"network":"94.158.51.147/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
+{"network":"94.158.54.0/24","sources":["antifilter"],"source_count":1}
 {"network":"94.158.64.0/20","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"94.158.184.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"94.158.245.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -75515,6 +75531,7 @@
 {"network":"94.199.255.244/32","sources":["blockedin"],"source_count":1}
 {"network":"94.200.0.0/13","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"94.212.7.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"94.228.116.0/24","sources":["antifilter"],"source_count":1}
 {"network":"94.228.116.130/32","sources":["blockedin"],"source_count":1}
 {"network":"94.228.116.135/32","sources":["blockedin"],"source_count":1}
 {"network":"94.228.117.11/32","sources":["blockedin"],"source_count":1}
@@ -76811,6 +76828,7 @@
 {"network":"95.183.0.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"95.183.0.66/32","sources":["blockedin"],"source_count":1}
 {"network":"95.183.8.103/32","sources":["blockedin"],"source_count":1}
+{"network":"95.183.9.0/24","sources":["antifilter"],"source_count":1}
 {"network":"95.183.9.212/32","sources":["blockedin"],"source_count":1}
 {"network":"95.183.11.102/32","sources":["blockedin"],"source_count":1}
 {"network":"95.183.13.171/32","sources":["blockedin"],"source_count":1}
@@ -140350,6 +140368,7 @@
 {"network":"109.71.242.0/24","sources":["antifilter"],"source_count":1}
 {"network":"109.71.242.147/32","sources":["blockedin"],"source_count":1}
 {"network":"109.71.242.155/32","sources":["blockedin"],"source_count":1}
+{"network":"109.71.245.0/24","sources":["antifilter"],"source_count":1}
 {"network":"109.71.252.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"109.72.82.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"109.72.82.130/32","sources":["blockedin"],"source_count":1}
@@ -142776,6 +142795,8 @@
 {"network":"122.155.167.201/32","sources":["blockedin"],"source_count":1}
 {"network":"122.155.168.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"122.155.168.173/32","sources":["blockedin"],"source_count":1}
+{"network":"122.155.237.0/24","sources":["antifilter"],"source_count":1}
+{"network":"122.155.243.0/24","sources":["antifilter"],"source_count":1}
 {"network":"122.156.180.36/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"122.165.242.4/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"122.173.84.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -151759,6 +151780,7 @@
 {"network":"146.75.121.91/32","sources":["blockedin"],"source_count":1}
 {"network":"146.75.121.194/32","sources":["blockedin"],"source_count":1}
 {"network":"146.75.123.52/32","sources":["blockedin"],"source_count":1}
+{"network":"146.75.127.0/24","sources":["antifilter"],"source_count":1}
 {"network":"146.77.0.0/16","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"146.78.0.0/16","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"146.78.95.0/24","sources":["antifilter"],"source_count":1}
@@ -152316,6 +152338,7 @@
 {"network":"147.75.40.150/32","sources":["blockedin"],"source_count":1}
 {"network":"147.75.49.0/24","sources":["antifilter"],"source_count":1}
 {"network":"147.75.208.0/20","sources":["antifilter"],"source_count":1}
+{"network":"147.78.0.0/24","sources":["antifilter"],"source_count":1}
 {"network":"147.78.12.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"147.78.14.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"147.78.32.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -153797,6 +153820,7 @@
 {"network":"149.248.192.180/32","sources":["blockedin"],"source_count":1}
 {"network":"149.248.211.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"149.248.211.108/32","sources":["blockedin"],"source_count":1}
+{"network":"149.248.212.0/24","sources":["antifilter"],"source_count":1}
 {"network":"149.255.35.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"149.255.35.26/32","sources":["blockedin"],"source_count":1}
 {"network":"149.255.57.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -154722,6 +154746,7 @@
 {"network":"151.248.68.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"151.248.104.96/27","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"151.248.104.128/27","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"151.248.114.0/24","sources":["antifilter"],"source_count":1}
 {"network":"151.248.120.0/24","sources":["antifilter"],"source_count":1}
 {"network":"151.249.89.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"151.249.89.10/32","sources":["blockedin"],"source_count":1}
@@ -155381,6 +155406,7 @@
 {"network":"154.12.34.86/32","sources":["blockedin"],"source_count":1}
 {"network":"154.12.164.0/24","sources":["antifilter"],"source_count":1}
 {"network":"154.12.226.19/32","sources":["blockedin"],"source_count":1}
+{"network":"154.12.244.0/24","sources":["antifilter"],"source_count":1}
 {"network":"154.14.0.0/16","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"154.16.17.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"154.16.29.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -156367,7 +156393,7 @@
 {"network":"155.212.185.0/24","sources":["antifilter"],"source_count":1}
 {"network":"155.212.185.104/32","sources":["blockedin"],"source_count":1}
 {"network":"155.212.185.124/32","sources":["blockedin"],"source_count":1}
-{"network":"155.212.186.0/24","sources":["antifilter"],"source_count":1}
+{"network":"155.212.186.0/23","sources":["antifilter"],"source_count":1}
 {"network":"155.212.187.106/32","sources":["blockedin"],"source_count":1}
 {"network":"155.212.187.189/32","sources":["blockedin"],"source_count":1}
 {"network":"155.212.188.0/23","sources":["antifilter"],"source_count":1}
@@ -157893,6 +157919,7 @@
 {"network":"158.173.186.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"158.173.188.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"158.173.208.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"158.173.216.51/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"158.173.216.73/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"158.173.221.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"158.173.240.0/23","sources":["russia_blocked_ips"],"source_count":1}
@@ -196268,6 +196295,7 @@
 {"network":"178.17.170.53/32","sources":["blockedin"],"source_count":1}
 {"network":"178.17.170.113/32","sources":["blockedin"],"source_count":1}
 {"network":"178.17.170.155/32","sources":["blockedin"],"source_count":1}
+{"network":"178.17.171.74/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"178.17.171.102/32","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"178.17.174.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"178.17.174.175/32","sources":["blockedin"],"source_count":1}
@@ -196763,7 +196791,7 @@
 {"network":"178.57.219.0/24","sources":["antifilter"],"source_count":1}
 {"network":"178.57.219.64/32","sources":["blockedin"],"source_count":1}
 {"network":"178.57.219.217/32","sources":["blockedin"],"source_count":1}
-{"network":"178.57.223.0/24","sources":["antifilter"],"source_count":1}
+{"network":"178.57.222.0/23","sources":["antifilter"],"source_count":1}
 {"network":"178.58.182.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"178.62.0.0/15","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"178.62.5.160/32","sources":["blockedin"],"source_count":1}
@@ -202898,6 +202926,7 @@
 {"network":"185.30.92.203/32","sources":["blockedin"],"source_count":1}
 {"network":"185.30.96.3/32","sources":["blockedin"],"source_count":1}
 {"network":"185.30.128.0/22","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"185.30.160.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"185.30.165.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"185.30.165.32/32","sources":["blockedin"],"source_count":1}
 {"network":"185.30.168.0/22","sources":["russia_blocked_ips"],"source_count":1}
@@ -207390,6 +207419,7 @@
 {"network":"185.139.68.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"185.139.68.173/32","sources":["blockedin"],"source_count":1}
 {"network":"185.139.68.179/32","sources":["blockedin"],"source_count":1}
+{"network":"185.139.70.0/24","sources":["antifilter"],"source_count":1}
 {"network":"185.139.78.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"185.139.154.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"185.139.154.158/32","sources":["blockedin"],"source_count":1}
@@ -227899,6 +227929,7 @@
 {"network":"195.13.228.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"195.13.228.124/32","sources":["blockedin"],"source_count":1}
 {"network":"195.14.130.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"195.15.207.0/24","sources":["antifilter"],"source_count":1}
 {"network":"195.15.211.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"195.15.211.170/32","sources":["blockedin"],"source_count":1}
 {"network":"195.16.42.0/24","sources":["antifilter"],"source_count":1}
@@ -229336,6 +229367,7 @@
 {"network":"195.133.17.5/32","sources":["blockedin"],"source_count":1}
 {"network":"195.133.18.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"195.133.18.117/32","sources":["blockedin"],"source_count":1}
+{"network":"195.133.31.0/24","sources":["antifilter"],"source_count":1}
 {"network":"195.133.32.50/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
 {"network":"195.133.38.131/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
 {"network":"195.133.39.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -233459,6 +233491,7 @@
 {"network":"199.231.235.169/32","sources":["blockedin"],"source_count":1}
 {"network":"199.232.0.0/16","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"199.232.17.0/24","sources":["antifilter"],"source_count":1}
+{"network":"199.232.41.0/24","sources":["antifilter"],"source_count":1}
 {"network":"199.232.45.0/24","sources":["antifilter"],"source_count":1}
 {"network":"199.232.52.0/24","sources":["antifilter"],"source_count":1}
 {"network":"199.232.57.0/24","sources":["antifilter"],"source_count":1}
@@ -234196,6 +234229,7 @@
 {"network":"202.155.11.195/32","sources":["blockedin"],"source_count":1}
 {"network":"202.155.11.222/32","sources":["blockedin"],"source_count":1}
 {"network":"202.155.12.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"202.155.19.0/24","sources":["antifilter"],"source_count":1}
 {"network":"202.155.133.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"202.155.134.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"202.155.156.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -240470,7 +240504,7 @@
 {"network":"208.81.250.0/23","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"208.82.16.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"208.82.16.68/32","sources":["blockedin"],"source_count":1}
-{"network":"208.82.114.0/24","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"208.82.114.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"208.82.114.162/32","sources":["blockedin"],"source_count":1}
 {"network":"208.82.114.179/32","sources":["blockedin"],"source_count":1}
 {"network":"208.82.114.180/32","sources":["blockedin"],"source_count":1}
@@ -241266,6 +241300,7 @@
 {"network":"209.40.192.0/20","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"209.41.192.0/18","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"209.42.17.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"209.42.19.0/24","sources":["antifilter"],"source_count":1}
 {"network":"209.42.19.33/32","sources":["blockedin","russia_blocked_ips"],"source_count":2}
 {"network":"209.42.20.0/23","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"209.42.22.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
@@ -244951,6 +244986,7 @@
 {"network":"213.165.231.0/24","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"213.165.231.102/32","sources":["blockedin"],"source_count":1}
 {"network":"213.165.236.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
+{"network":"213.165.241.0/24","sources":["antifilter"],"source_count":1}
 {"network":"213.165.243.0/24","sources":["antifilter","russia_blocked_ips"],"source_count":2}
 {"network":"213.165.243.142/32","sources":["blockedin"],"source_count":1}
 {"network":"213.165.247.0/24","sources":["russia_blocked_ips"],"source_count":1}
@@ -452814,12 +452850,8 @@
 {"network":"2a10:ccc1:428::/45","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:430::/45","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:438::/47","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:43a::/48","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:43c::/46","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:440::/45","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:448::/47","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:44a::/48","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:44c::/46","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a10:ccc1:440::/44","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:450::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:454::/47","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:457::/48","sources":["russia_blocked_ips"],"source_count":1}
@@ -452833,7 +452865,10 @@
 {"network":"2a10:ccc1:46b::/48","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:46d::/48","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:46e::/47","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a10:ccc1:470::/44","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a10:ccc1:470::/45","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a10:ccc1:478::/47","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a10:ccc1:47b::/48","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a10:ccc1:47c::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:480::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:484::/48","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a10:ccc1:486::/47","sources":["russia_blocked_ips"],"source_count":1}
@@ -454276,8 +454311,7 @@
 {"network":"2a14:7583:f098::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a14:7583:f0a0::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a14:7583:f0ac::/46","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a14:7583:f0b0::/45","sources":["russia_blocked_ips"],"source_count":1}
-{"network":"2a14:7583:f0b8::/46","sources":["russia_blocked_ips"],"source_count":1}
+{"network":"2a14:7583:f0b0::/44","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a14:7583:f0c0::/45","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a14:7583:f0c8::/46","sources":["russia_blocked_ips"],"source_count":1}
 {"network":"2a14:7583:f0d0::/44","sources":["russia_blocked_ips"],"source_count":1}
