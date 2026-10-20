@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:56:41Z",
+  "generated_at": "2026-10-20T11:45:04Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -22,13 +22,13 @@
       "name": "Russia Blocked IPs",
       "url": "https://raw.githubusercontent.com/eduard256/russia-blocked-ips/main/ip.txt",
       "status": "downloaded",
-      "entries": 50189,
+      "entries": 50196,
       "stats": {
-        "tokens_seen": 50199,
+        "tokens_seen": 50206,
         "invalid": 0,
         "non_global": 10,
         "too_broad": 0,
-        "accepted": 50189
+        "accepted": 50196
       },
       "error": null
     },
@@ -48,10 +48,10 @@
       "error": null
     }
   },
-  "unique_source_records": 454472,
-  "combined_cidr_count": 57338,
-  "record_count_before_collapse": 454472,
-  "combined_sha256": "bba1298a6cd6d117c7de2e0c58e0e3365867d706fbb269218bacfb842f025117",
+  "unique_source_records": 454479,
+  "combined_cidr_count": 57345,
+  "record_count_before_collapse": 454479,
+  "combined_sha256": "a62b58f90a3c2e094c37ce8b77a2301e953b3b7a63e92e87ade6bcca0d69f824",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
