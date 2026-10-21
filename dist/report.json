@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:41:48Z",
+  "generated_at": "2026-10-21T04:55:19Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -7,13 +7,13 @@
       "name": "antifilter.download allyouneed",
       "url": "https://antifilter.download/list/allyouneed.lst",
       "status": "downloaded",
-      "entries": 17951,
+      "entries": 17938,
       "stats": {
-        "tokens_seen": 17951,
+        "tokens_seen": 17938,
         "invalid": 0,
         "non_global": 0,
         "too_broad": 0,
-        "accepted": 17951
+        "accepted": 17938
       },
       "error": null
     },
@@ -48,10 +48,10 @@
       "error": null
     }
   },
-  "unique_source_records": 454474,
-  "combined_cidr_count": 57341,
-  "record_count_before_collapse": 454474,
-  "combined_sha256": "90e1affed6e1d51796633724ec9e2391ed36e3b38656a84f0b70d71e22b8c292",
+  "unique_source_records": 454759,
+  "combined_cidr_count": 57367,
+  "record_count_before_collapse": 454759,
+  "combined_sha256": "7cf95369831e58044a09fc64c3f13d78d3511280af6f943ce8a0a844d41c1c61",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
