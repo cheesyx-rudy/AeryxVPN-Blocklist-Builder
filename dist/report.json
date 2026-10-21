@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:56:32Z",
+  "generated_at": "2026-10-21T17:17:30Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -51,7 +51,7 @@
   "unique_source_records": 454481,
   "combined_cidr_count": 57353,
   "record_count_before_collapse": 454481,
-  "combined_sha256": "4ad31ffcb625b879c6624e30a1e2e2c3346bb01d5a39d68a68ee5d28fcf8a4eb",
+  "combined_sha256": "42c79952abbb69faf5a9040c7f415b7f273b850ecf875952c6e59923e4311122",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
