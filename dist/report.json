@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:47:30Z",
+  "generated_at": "2026-10-22T04:55:29Z",
   "source_count": 3,
   "sources": {
     "antifilter": {
@@ -7,13 +7,13 @@
       "name": "antifilter.download allyouneed",
       "url": "https://antifilter.download/list/allyouneed.lst",
       "status": "downloaded",
-      "entries": 17938,
+      "entries": 17948,
       "stats": {
-        "tokens_seen": 17938,
+        "tokens_seen": 17948,
         "invalid": 0,
         "non_global": 0,
         "too_broad": 0,
-        "accepted": 17938
+        "accepted": 17948
       },
       "error": null
     },
@@ -22,13 +22,13 @@
       "name": "Russia Blocked IPs",
       "url": "https://raw.githubusercontent.com/eduard256/russia-blocked-ips/main/ip.txt",
       "status": "downloaded",
-      "entries": 50222,
+      "entries": 50227,
       "stats": {
-        "tokens_seen": 50232,
+        "tokens_seen": 50237,
         "invalid": 0,
         "non_global": 10,
         "too_broad": 0,
-        "accepted": 50222
+        "accepted": 50227
       },
       "error": null
     },
@@ -37,21 +37,21 @@
       "name": "BlockedIn API v3 IPs",
       "url": "https://blockedin.org/api/v3/ips/",
       "status": "downloaded",
-      "entries": 396017,
+      "entries": 396251,
       "stats": {
-        "tokens_seen": 396017,
+        "tokens_seen": 396251,
         "invalid": 0,
         "non_global": 0,
         "too_broad": 0,
-        "accepted": 396017
+        "accepted": 396251
       },
       "error": null
     }
   },
-  "unique_source_records": 454508,
-  "combined_cidr_count": 57380,
-  "record_count_before_collapse": 454508,
-  "combined_sha256": "cde4f3694f7fad0c9528ca49fccb1c2db9a21f06f73349338bfeb0c18d0ba4f1",
+  "unique_source_records": 454761,
+  "combined_cidr_count": 57393,
+  "record_count_before_collapse": 454761,
+  "combined_sha256": "1c26f128adba4f3d5ad002d8ee4f190ff33f1d1f93018ecad00b93f0da68a5ba",
   "notes": [
     "The aggregate is a multi-source signal, not proof of an official block.",
     "Domains are not resolved into IP addresses.",
