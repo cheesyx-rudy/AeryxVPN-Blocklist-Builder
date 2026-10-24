@@ -1,11 +1,11 @@
 {
   "name": "LIKVID Hybrid Blocklist",
   "schema_version": 1,
-  "generated_at": "2026-10-24T11:08:29Z",
+  "generated_at": "2026-10-24T16:00:55Z",
   "description": "Normalized union of configured public IP/CIDR sources",
   "combined_file": "blocked_cidrs.txt",
-  "combined_sha256": "1a616a66904b5c59835138359f7d01142363a7980725fdc75ab3fe916a253e56",
-  "combined_cidr_count": 62923,
+  "combined_sha256": "2ec00f98df4893c12942b290dc5aecf4e81d6871dcfc01cb8caa7d70e073b96a",
+  "combined_cidr_count": 62925,
   "source_count": 3,
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "Russia Blocked IPs",
       "url": "https://raw.githubusercontent.com/eduard256/russia-blocked-ips/main/ip.txt",
       "status": "downloaded",
-      "entries": 55706,
+      "entries": 55708,
       "error": null
     }
   ]
